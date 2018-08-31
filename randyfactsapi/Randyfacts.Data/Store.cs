@@ -79,6 +79,12 @@ namespace Randyfacts.Data
         public Fact GetRandom(string token)
         {
             var matches = List(token);
+
+            if (!matches.Any())
+            {
+                return null;
+            }
+
             int factPosition = rand.Next(0, matches.Count() - 1);
 
             return matches.ElementAt(factPosition);

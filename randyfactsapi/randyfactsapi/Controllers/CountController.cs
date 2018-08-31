@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Randyfacts.Data;
+using Randyfacts.Response;
 
-namespace randyfactsapi.Controllers
+namespace Randyfacts.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
@@ -14,20 +15,32 @@ namespace randyfactsapi.Controllers
     {
         // GET: api/Count
         [HttpGet]
-        public string Get()
+        public CountResponse Get()
         {
             Store store = new Store();
 
-            return store.HowMany().ToString();
+            int count = store.HowMany();
+
+            return new CountResponse
+            {
+                Token = null,
+                Total = count
+            };
         }
 
         // GET: api/List/5
         [HttpGet("{token}")]
-        public string Get(string token)
+        public CountResponse Get(string token)
         {
             Store store = new Store();
 
-            return store.HowMany(token).ToString();
+            int count = store.HowMany(token);
+
+            return new CountResponse
+            {
+                Token = null,
+                Total = count
+            };
         }
     }
 }

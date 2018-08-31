@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "randyfactsapi/1.0.0": {
+      "RandyfactsAPI/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0",
@@ -30,10 +30,10 @@
           "Randyfacts.Data": "1.0.0"
         },
         "runtime": {
-          "randyfactsapi.dll": {}
+          "RandyfactsAPI.dll": {}
         },
         "compile": {
-          "randyfactsapi.dll": {}
+          "RandyfactsAPI.dll": {}
         }
       },
       "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
@@ -3467,7 +3467,7 @@
     }
   },
   "libraries": {
-    "randyfactsapi/1.0.0": {
+    "RandyfactsAPI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

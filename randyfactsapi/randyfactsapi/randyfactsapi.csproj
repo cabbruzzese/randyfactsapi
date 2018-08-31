@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Randyfacts</RootNamespace>
+    <AssemblyName>RandyfactsAPI</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
