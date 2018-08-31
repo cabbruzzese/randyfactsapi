@@ -1,0 +1,9 @@
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\bin\Debug\netcoreapp2.1\Randyfacts.Data.deps.json
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\bin\Debug\netcoreapp2.1\Randyfacts.Data.dll
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\bin\Debug\netcoreapp2.1\Randyfacts.Data.pdb
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\obj\Debug\netcoreapp2.1\Randyfacts.Data.csprojAssemblyReference.cache
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\obj\Debug\netcoreapp2.1\Randyfacts.Data.csproj.CoreCompileInputs.cache
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\obj\Debug\netcoreapp2.1\Randyfacts.Data.AssemblyInfoInputs.cache
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\obj\Debug\netcoreapp2.1\Randyfacts.Data.AssemblyInfo.cs
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\obj\Debug\netcoreapp2.1\Randyfacts.Data.dll
+D:\Projects\randyfactsapi\randyfactsapi\Randyfacts.Data\obj\Debug\netcoreapp2.1\Randyfacts.Data.pdb

@@ -1,0 +1,17 @@
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\randyfactsapi.deps.json
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\randyfactsapi.runtimeconfig.json
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\randyfactsapi.runtimeconfig.dev.json
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\randyfactsapi.dll
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.csprojAssemblyReference.cache
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.csproj.CoreCompileInputs.cache
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.RazorAssemblyInfo.cache
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.RazorAssemblyInfo.cs
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.AssemblyInfoInputs.cache
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.AssemblyInfo.cs
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.RazorTargetAssemblyInfo.cache
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\randyfactsapi.pdb
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.dll
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.pdb
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\Randyfacts.Data.dll
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\bin\Debug\netcoreapp2.1\Randyfacts.Data.pdb
+D:\Projects\randyfactsapi\randyfactsapi\randyfactsapi\obj\Debug\netcoreapp2.1\randyfactsapi.csproj.CopyComplete
