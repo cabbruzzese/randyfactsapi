@@ -28,7 +28,7 @@ namespace Randyfacts.Controllers
             };
         }
 
-        // GET: api/List/5
+        // GET: api/List/searchterm
         [HttpGet("{token}")]
         public CountResponse Get(string token)
         {
